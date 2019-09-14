@@ -179,9 +179,9 @@ const populationTotal = zooAnimals.reduce((accumulate, item) => {
 console.log(populationTotal);
 
 
-/*
+// /*
 
-Stretch: If you haven't already, convert your array method callbacks into arrow functions.
-:D
-*/
+// Stretch: If you haven't already, convert your array method callbacks into arrow functions.
+// :D
+// */
 
